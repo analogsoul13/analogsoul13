@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 *   🌍  I'm based in Kerala
 *   ✉️  You can contact me at [abinm0095@gmail.com](mailto:abinm0095@gmail.com)
-*   🧠  I'm learning Django
+*   🧠  I'm learning MEARN
 *   🤝  I'm open to collaborating on Web Development
 *   ⚡  Love Astronomy
 
